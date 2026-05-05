@@ -1,6 +1,6 @@
 # 🌱 Fertilizer Recommendation Model
 
-A machine learning-based approach to recommend fertilizers using multiple classification algorithms. This project focuses on comparing model performance rather than deployment.
+A machine learning-based approach to recommend fertilizers using multiple classification algorithms. This project focuses on comparing model performance rather than deployment. Models are compared using accuracy and other relevant evaluation metrics.
 
 ---
 
